@@ -1,4 +1,8 @@
-- 👋 Hello! My name is Sean Jin and I am a full-stack web developer with a background in Chemical Engineering and Software Renewals
+## HELLO! I'M SEAN :smiley:
+
+# ABOUT ME:
+
+- 👋 I am a full-stack web developer with a background in Chemical Engineering and Software Renewals
 
 - 🌱 I recently graduated from a Web Development Program at Lighthouse Labs, Inc.
 
