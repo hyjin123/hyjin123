@@ -1,6 +1,6 @@
-## HELLO! I'M SEAN :smiley:
+## Hi! I'm Sean :smiley:
 
-### ABOUT ME:
+### About me:
 
 - 👋 I am a full-stack web developer with a background in Chemical Engineering and Software Renewals
 
