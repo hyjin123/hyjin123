@@ -1,7 +1,5 @@
 ### I'm Sean :wave: :computer:
 
-### About me:
-
 - :man: I am a full-stack web developer with a background in Chemical Engineering and Software Renewals
 
 - 🌱 I graduated from a Web Development Program at Lighthouse Labs, Inc.
