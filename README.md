@@ -1,4 +1,4 @@
-## Hi! I'm Sean :wave: :computer:
+### I'm Sean :wave: :computer:
 
 ### About me:
 
