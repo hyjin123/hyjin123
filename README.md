@@ -1,6 +1,6 @@
 ### I'm Sean :wave: :computer:
 
-- :man: I am a full-stack web developer with a background in Chemical Engineering and Software Renewals
+- :man: I am a full-stack web developer with a background in Chemical Engineering and Software Renewals. I am currently working at Best Buy providing computer solutions and recommendations to customers!
 
 - 🌱 I graduated from a Web Development Program at Lighthouse Labs, Inc.
 
